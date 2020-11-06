@@ -47,7 +47,18 @@ img:hover {
 }
 
 .column {
-  display: ;
+  display: flex;
 }
 
+.small {
+  
+}
+
+.med {
+  
+}
+
+.large {
+  
+}
 /* create your tile classes! we recommend .small .med .large */
